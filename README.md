@@ -10,12 +10,9 @@ This repository contains my beginner Python exercises and notes as I build a str
 - Strings
 - f-Strings
 - User Input
-- Operators
-- Conditional Statements
-- Loops
-- Functions
-- Lists
-- Dictionaries
+- Comments
+- Numbers
+  
 
 ## Goal
 To document my progress and build the programming skills needed for a career in cybersecurity.
